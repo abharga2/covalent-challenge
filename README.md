@@ -1,1 +1,1 @@
-# covlanet-challenge
+# covalent-challenge
